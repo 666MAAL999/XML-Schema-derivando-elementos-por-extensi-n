@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="XSDelemenosextension.xsd">
+    <contacto>
+        <nombre>Rafael</nombre>
+        <apellido apellidoTipo="primero">Perez</apellido>
+        <apellido apellidoTipo="segundo">Gomez</apellido>
+        <telefono telefonoTipo="movil">666666666</telefono>
+        <genero>M</genero>
+        <edad>51</edad>
+        <email>1234@gmail.com</email>
+    </contacto>
+</agenda>
